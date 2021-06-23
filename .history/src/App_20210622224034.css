@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  bottom: 0;
+}
+
+.app {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: #dadbd3;
+}
+
+.app_body{
+  display: flex;
+  background-color: #ededed;
+  margin-top: -50px;
+  height: ;
+
+}

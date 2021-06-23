@@ -1,0 +1,29 @@
+.chat {
+  display: flex;
+  flex-direction: column;
+  flex: 0.65;
+}
+
+.chat_header{
+display: flex;
+align-items: center;
+border-bottom: 1px solid lightgray;
+padding: 15px;
+}
+
+.chat_info{
+flex: 1;
+padding-left: 10px;
+}
+.chat_info>h3{
+  margin-bottom: 3px;
+  font-weight: 500;
+}
+.chat_info>p{
+  color: gray;
+
+}
+.chat_body{
+  flex:1;
+  background-repeat: repeat;
+}

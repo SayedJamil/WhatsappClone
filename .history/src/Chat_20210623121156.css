@@ -1,0 +1,19 @@
+.chat {
+  display: flex;
+  flex-direction: column;
+  flex: 0.65;
+}
+
+.chat_header{
+display: flex;
+align-items: center;
+border-bottom: ;
+}
+
+.chat_info{
+
+}
+
+.chat_right{
+
+}
